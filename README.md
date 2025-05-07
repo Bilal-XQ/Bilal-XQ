@@ -1,72 +1,17 @@
-Hi there! 👋
+# 💫 About Me:
+Hi there! 👋<br><br>Welcome to my GitHub profile! I'm a first-year computer science student at EST Safi, passionate about technology, programming, and cybersecurity. My goal is to grow as a skilled developer and contribute to innovative solutions in the tech world.<br><br>About Me<br><br>🎓 Education: Computer Engineering Student @ EST Safi.<br><br>💻 Interests: Programming, Web Development, Cybersecurity, and AI.<br><br>🎨 Skills:<br><br>Front-End Development: HTML, CSS, JavaScript.<br><br>Back-End Development: PHP, MySQL.<br><br>Tools: IntelliJ IDEA, VS Code.<br><br>Graphic Design and Social Media Management.<br><br>🌱 Currently Learning:<br><br>Web Development: Building modern and responsive websites.<br><br>Data Structures and Algorithms: Problem-solving and optimization techniques.<br><br>Database Management: Designing and managing relational databases.<br><br>🚀 Future Goals:<br><br>Build professional-grade web applications.<br><br>Contribute to open-source cybersecurity projects.<br><br>Advance my expertise in full-stack development.<br><br>My Projects<br><br>📌 Cybersecurity Projects<br><br>DDoS Simulation Tool: A Python-based project to simulate and understand DDoS attacks, developed as part of a workshop with Cyber Atlas.<br><br>📌 Web Development Projects<br><br>School Transport Supervision App:<br><br>Designed the MCD, MLD, and MOT models using PowerAMC.<br><br>Set up a MySQL database with WAMP.<br><br>Currently enhancing the application with additional features.<br><br>📌 Personal Projects<br><br>Portfolio Website: A responsive website showcasing my projects and skills (in progress).<br><br>How I Work<br><br>Tools: IntelliJ IDEA, VS Code.<br><br>Languages: Python, C, HTML, CSS, JavaScript, PHP.<br><br>Methodology: Organized and detail-oriented; I strive to produce clear, professional reports and efficient code. I enjoy collaborating in team settings and constantly aim to improve my technical and creative abilities.<br><br>Let's Connect!<br><br>LinkedIn: www.linkedin.com/in/bilalelazzam<br><br>Email: bilalelazzam.dev@gmail.com<br><br>Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas. I'm always eager to learn and grow alongside like-minded individuals!
 
-Welcome to my GitHub profile! I'm a first-year computer science student at EST Safi, passionate about technology, programming, and cybersecurity. My goal is to grow as a skilled developer and contribute to innovative solutions in the tech world.
 
-About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalelazzam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bilalelazzam.dev@gmail.com) 
 
-🎓 Education: Computer Engineering Student @ EST Safi.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bilal-XQ&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Bilal-XQ&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-XQ&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-💻 Interests: Programming, Web Development, Cybersecurity, and AI.
-
-🎨 Skills:
-
-Front-End Development: HTML, CSS, JavaScript.
-
-Back-End Development: PHP, MySQL.
-
-Tools: IntelliJ IDEA, VS Code.
-
-Graphic Design and Social Media Management.
-
-🌱 Currently Learning:
-
-Web Development: Building modern and responsive websites.
-
-Data Structures and Algorithms: Problem-solving and optimization techniques.
-
-Database Management: Designing and managing relational databases.
-
-🚀 Future Goals:
-
-Build professional-grade web applications.
-
-Contribute to open-source cybersecurity projects.
-
-Advance my expertise in full-stack development.
-
-My Projects
-
-📌 Cybersecurity Projects
-
-DDoS Simulation Tool: A Python-based project to simulate and understand DDoS attacks, developed as part of a workshop with Cyber Atlas.
-
-📌 Web Development Projects
-
-School Transport Supervision App:
-
-Designed the MCD, MLD, and MOT models using PowerAMC.
-
-Set up a MySQL database with WAMP.
-
-Currently enhancing the application with additional features.
-
-📌 Personal Projects
-
-Portfolio Website: A responsive website showcasing my projects and skills (in progress).
-
-How I Work
-
-Tools: IntelliJ IDEA, VS Code.
-
-Languages: Python, C, HTML, CSS, JavaScript, PHP.
-
-Methodology: Organized and detail-oriented; I strive to produce clear, professional reports and efficient code. I enjoy collaborating in team settings and constantly aim to improve my technical and creative abilities.
-
-Let's Connect!
-
-LinkedIn: www.linkedin.com/in/bilal-el-azzam-23256931a
-
-Email: bilal.elazzam0@gmail.com
-
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas. I'm always eager to learn and grow alongside like-minded individuals!
+---
+[![](https://visitcount.itsvg.in/api?id=Bilal-XQ&icon=0&color=0)](https://visitcount.itsvg.in)
 
