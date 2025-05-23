@@ -1,17 +1,102 @@
-# 💫 About Me:
-Hi there! 👋<br><br>Welcome to my GitHub profile! I'm a first-year computer science student at EST Safi, passionate about technology, programming, and cybersecurity. My goal is to grow as a skilled developer and contribute to innovative solutions in the tech world.<br><br>About Me<br><br>🎓 Education: Computer Engineering Student @ EST Safi.<br><br>💻 Interests: Programming, Web Development, Cybersecurity, and AI.<br><br>🎨 Skills:<br><br>Front-End Development: HTML, CSS, JavaScript.<br><br>Back-End Development: PHP, MySQL.<br><br>Tools: IntelliJ IDEA, VS Code.<br><br>Graphic Design and Social Media Management.<br><br>🌱 Currently Learning:<br><br>Web Development: Building modern and responsive websites.<br><br>Data Structures and Algorithms: Problem-solving and optimization techniques.<br><br>Database Management: Designing and managing relational databases.<br><br>🚀 Future Goals:<br><br>Build professional-grade web applications.<br><br>Contribute to open-source cybersecurity projects.<br><br>Advance my expertise in full-stack development.<br><br>My Projects<br><br>📌 Cybersecurity Projects<br><br>DDoS Simulation Tool: A Python-based project to simulate and understand DDoS attacks, developed as part of a workshop with Cyber Atlas.<br><br>📌 Web Development Projects<br><br>School Transport Supervision App:<br><br>Designed the MCD, MLD, and MOT models using PowerAMC.<br><br>Set up a MySQL database with WAMP.<br><br>Currently enhancing the application with additional features.<br><br>📌 Personal Projects<br><br>Portfolio Website: A responsive website showcasing my projects and skills (in progress).<br><br>How I Work<br><br>Tools: IntelliJ IDEA, VS Code.<br><br>Languages: Python, C, HTML, CSS, JavaScript, PHP.<br><br>Methodology: Organized and detail-oriented; I strive to produce clear, professional reports and efficient code. I enjoy collaborating in team settings and constantly aim to improve my technical and creative abilities.<br><br>Let's Connect!<br><br>LinkedIn: www.linkedin.com/in/bilalelazzam<br><br>Email: bilalelazzam.dev@gmail.com<br><br>Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas. I'm always eager to learn and grow alongside like-minded individuals!
+# Hi there, I'm Bilal! 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Web+Developer;Building+Amazing+Web+Experiences" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalelazzam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bilalelazzam.dev@gmail.com) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bilal-XQ&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bilal-XQ&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-XQ&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🎓 **Computer Science Student** passionate about technology and innovation
+- 💻 **Full-Stack Web Developer** specializing in modern web technologies
+- 🌱 Currently expanding my knowledge in web development and AI integration
+- 🔭 Always working on exciting projects that solve real-world problems
+- ⚡ Fun fact: I love building applications that make life easier!
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+## 🎯 Featured Projects
+
+### 📝 Note Taking Website with AI Integration
+> An intelligent note-taking platform that leverages AI to enhance productivity and organization
+- **Tech Stack:** HTML, CSS, JavaScript, PHP, SQL
+- **Features:** AI-powered note organization, smart search, and content suggestions
+
+### 🌐 Portfolio Website
+> A personal showcase of my work, skills, and journey as a developer
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Highlights:** Responsive design, interactive elements, and clean user experience
+
+### 🚗 Vehicle Management System
+> A comprehensive solution for managing vehicle data and operations
+- **Tech Stack:** PHP, SQL, HTML, CSS, JavaScript
+- **Features:** Fleet tracking, maintenance scheduling, and detailed reporting
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-XQ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-XQ&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-XQ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🎯 What I'm Currently Working On
+
+- 🔍 Exploring advanced AI integration techniques
+- 📚 Deepening my knowledge in modern web frameworks
+- 🚀 Building more innovative full-stack applications
+- 🌟 Contributing to open-source projects
+
+## 💡 My Development Philosophy
+
+```javascript
+const bilal = {
+    code: ["HTML", "CSS", "JavaScript", "PHP", "SQL"],
+    focus: "Full-Stack Web Development",
+    passion: "Creating user-friendly applications",
+    goal: "Building technology that makes a difference",
+    currentlyLearning: "AI Integration & Modern Web Frameworks"
+};
+```
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilal-XQ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilal-xq)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bilal-XQ&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bilal-XQ&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  
+### "Code is like humor. When you have to explain it, it's bad." 💭
+
+*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations!*
+
+</div>
