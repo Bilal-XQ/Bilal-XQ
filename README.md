@@ -1,7 +1,7 @@
 # Hi there, I'm Bilal! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Web+Developer;Building+Amazing+Web+Experiences;AI+%26+Technology+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Web+Developer;PHP+%26+React+Specialist;AI+Integration+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,79 +14,116 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Student** passionate about technology and innovation
-- 💻 **Full-Stack Web Developer** specializing in modern web technologies
-- 🤖 **AI Enthusiast** exploring the intersection of AI and web development
-- 🌱 Currently expanding my knowledge in **React**, **Node.js**, and **AI integration**
-- 🔭 Always working on exciting projects that solve real-world problems
-- 💡 I believe in writing clean, efficient code that makes a difference
-- ⚡ Fun fact: I love building applications that make life easier and more productive!
+- 🎓 **Computer Science Student** passionate about educational technology
+- 💻 **Full-Stack Web Developer** specializing in **PHP** backend and **React** frontend
+- 🤖 **AI Integration Expert** building intelligent web applications with **Gemini API**
+- 🌱 Currently focused on **modern PHP patterns**, **React ecosystem**, and **AI-powered features**
+- 🔭 Building educational platforms that enhance learning experiences
+- 💡 I believe in creating accessible, user-centric applications that solve real problems
+- ⚡ Fun fact: I love combining traditional web technologies with cutting-edge AI!
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
 ### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
-### 🔧 Tools & Platforms
+### 🤖 AI & APIs
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🔧 Tools & Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WAMP](https://img.shields.io/badge/WAMP-FF6C2C?style=for-the-badge&logo=apache&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🎯 Featured Projects
+
+### 🧠 StudyNotes - Intelligent Note-Taking Platform
+> **Current Main Project:** An AI-powered educational platform that revolutionizes how students organize and interact with their course materials
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🧠 **AI-Powered Note Taking** | Intelligent note-taking platform with AI integration | `HTML` `CSS` `JS` `PHP` `MySQL` | [🔗 View](https://github.com/Bilal-XQ) |
-| 🌐 **Portfolio Website** | Personal showcase with interactive elements | `HTML` `CSS` `JavaScript` | [🔗 View](https://github.com/Bilal-XQ) |
-| 🚗 **Vehicle Management System** | Comprehensive fleet management solution | `PHP` `MySQL` `HTML` `CSS` `JS` | [🔗 View](https://github.com/Bilal-XQ) |
+| Feature | Technology | Status |
+|---------|------------|--------|
+| 📚 **Smart Note Management** | `React` `PHP` `MySQL` | ✅ Complete |
+| 🤖 **AI Summaries** | `Gemini API` `PHP` | ✅ Integrated |
+| 📝 **Quiz Generation** | `AI Processing` `React` | ✅ Active |
+| 🎨 **Modern UI/UX** | `Tailwind CSS` `Framer Motion` | ✅ Responsive |
+| 🔐 **Secure Authentication** | `PHP Sessions` `bcrypt` | ✅ Implemented |
 
 </div>
 
-### 🌟 Project Highlights
+**Key Achievements:**
+- 🎯 **AI Integration:** Successfully integrated Gemini API for intelligent content processing
+- 📱 **Responsive Design:** Mobile-first approach with Tailwind CSS
+- 🏗️ **MVC Architecture:** Clean, maintainable codebase following PHP best practices
+- 🔒 **Security First:** Implemented robust authentication and data protection
+- ⚡ **Performance:** Optimized database queries and efficient React components
 
-<details>
-<summary><b>📝 AI-Powered Note Taking Platform</b></summary>
+### 🌐 Portfolio & Web Projects
+> Collection of responsive web applications showcasing modern development practices
 
-**An intelligent note-taking platform that leverages AI to enhance productivity**
-- ✨ AI-powered note organization and smart categorization
-- 🔍 Advanced search functionality with content suggestions
-- 📊 Analytics dashboard for study patterns
-- 🔒 Secure user authentication and data protection
-- 📱 Fully responsive design for all devices
+- **🎨 Interactive Portfolio:** Personal showcase with advanced CSS animations
+- **🚗 Vehicle Management System:** Complete CRUD application with reporting features
+- **📊 Dynamic Dashboards:** Data visualization with modern web technologies
 
-</details>
+---
 
-<details>
-<summary><b>🚗 Vehicle Management System</b></summary>
+## 💻 Development Philosophy
 
-**A comprehensive solution for managing vehicle operations**
-- 🚙 Fleet tracking with real-time updates
-- 🔧 Maintenance scheduling and reminders
-- 📈 Detailed reporting and analytics
-- 👥 Multi-user role management
-- 💾 Robust data backup and recovery
+<div align="center">
 
-</details>
+```php
+<?php
+class BilalDev {
+    private $expertise = [
+        'frontend' => ['React', 'JavaScript', 'Tailwind CSS', 'HTML5', 'CSS3'],
+        'backend' => ['PHP 8+', 'MySQL', 'Composer', 'MVC Pattern'],
+        'ai_integration' => ['Gemini API', 'Content Analysis', 'Quiz Generation'],
+        'tools' => ['Git', 'VS Code', 'WAMP', 'PostCSS']
+    ];
+    
+    private $principles = [
+        'Clean, maintainable code',
+        'User-centric design',
+        'Performance optimization',
+        'Security-first approach',
+        'Continuous learning'
+    ];
+    
+    public function getCurrentFocus(): string {
+        return "Building AI-powered educational tools that make learning more effective";
+    }
+    
+    public function getAvailability(): string {
+        return "Open for collaborations on innovative web projects!";
+    }
+}
+
+$bilal = new BilalDev();
+echo $bilal->getCurrentFocus();
+```
+
+</div>
 
 ---
 
@@ -101,81 +138,81 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-XQ&theme=tokyonight&hide_border=true&stroke=2E97F7&ring=2E97F7&fire=FF6B35" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilal-XQ&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+---
+
+## 🎯 Current Focus & Learning
+
+### 🚀 Active Development
+- 🧠 **StudyNotes Platform:** Enhancing AI features and user experience
+- 📚 **Educational Tools:** Building more intelligent learning assistants
+- 🎨 **UI/UX Improvements:** Implementing advanced animations with Framer Motion
+- 🔐 **Security Enhancements:** Advanced authentication and data protection
+
+### 📖 Currently Learning
+- 🤖 **Advanced AI Integration:** Exploring more sophisticated AI features
+- ⚛️ **React Patterns:** Modern hooks, context, and state management
+- 🏗️ **PHP Architecture:** Advanced design patterns and best practices
+- 🎯 **Performance Optimization:** Database indexing and query optimization
+
+### 💡 Upcoming Projects
+- 📱 **Progressive Web App:** Converting StudyNotes to PWA
+- 🌐 **API Development:** RESTful APIs for mobile app integration
+- 🤝 **Collaboration Platform:** Multi-user study groups and sharing
 
 ---
 
-## 🎯 Current Focus
+## 🏆 Project Highlights & Achievements
 
 <div align="center">
 
-```javascript
-const bilal = {
-    code: ["HTML", "CSS", "JavaScript", "PHP", "React", "Node.js"],
-    databases: ["MySQL", "MongoDB"],
-    currentlyLearning: ["AI Integration", "React Ecosystem", "Cloud Technologies"],
-    focus: "Full-Stack Web Development",
-    passion: "Creating user-centric applications",
-    goal: "Building technology that makes a positive impact",
-    availableFor: "Freelance projects and collaboration"
-};
-
-console.log("Let's build something amazing together! 🚀");
-```
+| 🎯 Achievement | 📊 Metric | 🎉 Status |
+|---------------|-----------|-----------|
+| **AI Integration Success** | Gemini API Implementation | ✅ Production Ready |
+| **Modern Tech Stack** | React + PHP + MySQL | ✅ Optimized |
+| **Security Implementation** | Authentication & Data Protection | ✅ Robust |
+| **Responsive Design** | Mobile-First Approach | ✅ Cross-Platform |
+| **Code Quality** | PSR-4 Standards & Best Practices | ✅ Maintained |
 
 </div>
 
-### 🌱 What I'm Working On
-
-- 🔬 **Exploring:** Advanced AI integration techniques and machine learning
-- 📚 **Learning:** Modern React patterns, Next.js, and cloud deployment
-- 🚀 **Building:** More innovative full-stack applications with real-world impact
-- 🌟 **Contributing:** Open-source projects and community initiatives
-- 💼 **Available:** For freelance projects and exciting collaborations
-
----
-
-## 🏅 Achievements & Milestones
-
-<div align="center">
-
-| 🎯 Milestone | 📊 Status | 🎉 Achievement |
-|-------------|-----------|----------------|
-| **Projects Completed** | 10+ | ✅ Delivered |
-| **Technologies Mastered** | 8+ | 🚀 Growing |
-| **GitHub Contributions** | 200+ | 📈 Active |
-| **Community Impact** | Growing | 🌟 Building |
-
-</div>
+### 🌟 Technical Accomplishments
+- ✨ **Seamless AI Integration:** Successfully integrated Gemini API for content analysis
+- 🏗️ **Scalable Architecture:** Implemented clean MVC pattern with proper separation
+- 🎨 **Modern Frontend:** Built responsive React components with Tailwind CSS
+- 🔒 **Security Excellence:** Implemented comprehensive security measures
+- ⚡ **Performance Focus:** Optimized database queries and component rendering
 
 ---
 
-## 💬 Let's Connect & Collaborate!
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
-### 🤝 I'm always excited to connect with fellow developers!
+### 🌟 I'm passionate about building educational technology that makes a difference!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilalelazzam)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilal-XQ)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalelazzam.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
 </div>
+
+### 💼 Open For:
+- 🚀 **Freelance Projects:** Web development with AI integration
+- 🤝 **Collaborations:** Educational technology and innovative web apps
+- 💡 **Mentorship:** Sharing knowledge about PHP, React, and AI integration
+- 🌟 **Open Source:** Contributing to meaningful projects
 
 ---
 
 <div align="center">
 
-### 💭 *"The best code is not just functional, but elegant and maintainable."*
+### 💭 *"The best educational technology doesn't just store information—it transforms how we learn and grow."*
 
-**🚀 Open to opportunities • 💼 Available for freelance • 🤝 Let's build something amazing together!**
+**🎓 Focused on Education • 🤖 AI-Powered Solutions • 🌐 Modern Web Development**
 
-*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a friendly chat about technology!*
+*Thanks for visiting! Check out my repositories, especially StudyNotes, and let's discuss how we can build better educational tools together!*
 
-⭐ **If you like my work, please consider giving my repositories a star!** ⭐
+⭐ **If you find my projects interesting, please consider starring them!** ⭐
 
 </div>
 
