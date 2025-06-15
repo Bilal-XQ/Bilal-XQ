@@ -50,40 +50,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-### 🧠 StudyNotes - AI-Powered Note Platform
-An intelligent note-taking platform that helps students organize course materials and generate AI summaries and quizzes.
-- **Tech:** React, PHP, MySQL, Gemini API
-- **Features:** Smart note management, AI summaries, quiz generation
-
-### 🚗 Vehicle Management System
-Comprehensive fleet management solution for automotive businesses.
-- **Tech:** PHP, TypeScript, MySQL
-- **Features:** Vehicle tracking, maintenance scheduling, reporting dashboard
-
-### 🏆 KhadmaAI - Hackathon Project
-AI-powered service platform developed for ENSET Hackathon 2025.
-- **Tech:** TypeScript, AI/ML
-- **Features:** Intelligent service recommendations, automated workflows
-
-### 📝 Note-Taking Platform
-Web-based productivity app for digital note organization.
-- **Tech:** PHP, JavaScript, CSS
-- **Features:** Rich text editing, categorization, search functionality
-
-### 🔐 DDoS Educational Tool
-Educational cybersecurity tool for network security learning.
-- **Tech:** Python, HTML, CSS
-- **Purpose:** Network security education (ethical use only)
-
-### 🌐 Personal Portfolio
-Modern portfolio showcasing skills and projects.
-- **Tech:** TypeScript, CSS
-- **Features:** Project gallery, responsive design
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -94,14 +60,6 @@ Modern portfolio showcasing skills and projects.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal-XQ&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-## 🎯 What I'm Working On
-
-- 🧠 **StudyNotes:** Enhancing AI features and user experience
-- 🔐 **Security Tools:** Developing educational cybersecurity resources
-- 🏆 **Hackathons:** Participating in competitive programming events
 
 ---
 
@@ -116,16 +74,13 @@ Modern portfolio showcasing skills and projects.
 </div>
 
 ### 💼 Open For:
-- 🚀 **Freelance Projects:** Web development with AI integration
+- 🚀 **Freelance Projects:** Web development 
 - 🤝 **Collaborations:** Educational technology and innovative web apps
 - 🏆 **Hackathons:** Team competitions and rapid prototyping
-- 💡 **Mentorship:** Sharing knowledge about web development
 
 ---
 
 <div align="center">
-
-### 💭 *"Building secure, intelligent solutions that make a positive impact"*
 
 *Thanks for visiting! Feel free to explore my projects and reach out for collaborations!*
 
