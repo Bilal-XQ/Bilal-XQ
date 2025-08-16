@@ -1,7 +1,7 @@
 # Hi there, I'm Bilal! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Web+Developer;AI+Integration+Specialist;Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Web+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,16 +9,6 @@
   <img src="https://img.shields.io/github/followers/Bilal-XQ?style=flat-square&color=blueviolet" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Bilal-XQ?style=flat-square&color=blueviolet" alt="GitHub stars" />
 </div>
-
----
-
-## 🚀 About Me
-
-- 🎓 **Computer Science Student** passionate about technology and innovation
-- 💻 **Full-Stack Developer** specializing in **PHP**, and **React**
-- 🤖 **AI Integration Expert** building intelligent applications
-- 🔐 **Cybersecurity Enthusiast** focused on ethical hacking
-- 🌱 Currently learning **modern web frameworks** and **AI integration**
 
 ---
 
