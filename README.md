@@ -22,8 +22,6 @@
 
 ```yaml
 name       : Bilal EL AZZAM
-school     : DUT Génie Informatique — EST Safi, Morocco
-experience : Full-Stack Intern @ XAI — Built a SaaS Learning Management System
 interests  : Full-Stack Web Dev · AI-Powered Apps · Cybersecurity
 ```
 
