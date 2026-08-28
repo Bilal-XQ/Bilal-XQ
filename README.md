@@ -24,7 +24,6 @@
 name       : Bilal EL AZZAM
 school     : DUT Génie Informatique — EST Safi, Morocco
 experience : Full-Stack Intern @ XAI — Built a SaaS Learning Management System
-looking_for: PFE Internship · 2 months · April – June
 interests  : Full-Stack Web Dev · AI-Powered Apps · Cybersecurity
 ```
 
